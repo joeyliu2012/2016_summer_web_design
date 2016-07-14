@@ -1,0 +1,8 @@
+---
+layout: post
+title: first post...
+
+---
+
+
+<h1>我的题目是：{{page.title }}</h1>
