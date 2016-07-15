@@ -41,5 +41,5 @@ title: 自己建立的第二个post
 > Time is money 
 
 
-![pokemon](/joey/image/169.jpg)
+![pokemon](/2016_summer_web_design/image/169.jpg)
 
