@@ -41,4 +41,4 @@ title: 自己建立的第二个post
 > Time is money 
 
 ![pokemon](/image/169.jpg)
-
+{{site.url}}
